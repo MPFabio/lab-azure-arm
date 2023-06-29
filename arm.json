@@ -24,7 +24,7 @@
     "moduleFilePath": "ContosoWebsite.ps1.zip",
     "imageSKU": "2019-Datacenter",
     "vmSize": "Standard_D2s_v3",
-    "vmName": "win2019-iis-vm1",
+    "vmName": "Fabio-Win",
     "diskType": "Standard_LRS",
     "vnetAddressPrefix": "10.0.0.0/16",
     "subnet1Name": "dscSubnet-1",
